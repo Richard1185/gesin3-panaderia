@@ -1,0 +1,9 @@
+node_modules/
+.out/
+out/
+dist/
+release/
+.env
+.env.*
+!.env.example
+sd3xd_api/
